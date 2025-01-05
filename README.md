@@ -23,19 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um avatar para explicar o e é IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para criar um texto definindo o que é IA generativa
+Canvas para a criação do avatar
+Vidnoz para a geração do vídeo do avatar gerado no Canvas
+Instagram para postar o vídeo e compartilhar
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro utilizei o ChatGPT para definir o que é IA Generativa. Depois foi criado o avatar, no ambiente canvas, utilizando a ferramenta mídia mágica, baseado numa foto carregada via upload. Em seguida foi feito o download da imagem gerada, em formato png. Posteriormente, foi feito o upload desta imagem gerada por IA na platadforma Vidnoz e acrescentado o texto gerado pelo ChatGPT, gerando um vídeo animado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.instagram.com/reel/DEdQ8Thvo5k/?igsh=NnNqa2p5NHlodnJ3
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio evidenciou o imenso poder da IA generativa, demonstrando sua incrível capacidade de criação. No entanto, é fundamental que esse poder seja utilizado com responsabilidade e ética, garantindo que seus impactos sejam sempre positivos e alinhados aos valores humanos.
 ```
 
 ### Exemplos e Insigths
